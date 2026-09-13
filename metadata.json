@@ -1,0 +1,6 @@
+{
+  "name": "CAR editz",
+  "description": "Precision paint protection film, graphene & ceramic coatings, surgical paint correction, and custom automotive detailing for exotic and luxury vehicles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

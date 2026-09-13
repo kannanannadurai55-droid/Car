@@ -1,0 +1,16 @@
+{
+  "entities": {
+    "Inquiry": {
+      "collection": "inquiries",
+      "fields": {
+        "fullName": { "type": "string", "required": true },
+        "phone": { "type": "string", "required": true },
+        "vehicle": { "type": "string", "required": true },
+        "service": { "type": "string", "required": true },
+        "notes": { "type": "string", "required": false },
+        "createdAt": { "type": "timestamp", "required": true },
+        "status": { "type": "string", "required": true }
+      }
+    }
+  }
+}
